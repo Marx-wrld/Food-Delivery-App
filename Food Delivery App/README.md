@@ -1,1 +1,3 @@
-# food-delivery-flutter
+## FoodDeliveryApp
+
+A Flutter project with SQL integration
